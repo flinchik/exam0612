@@ -5,6 +5,12 @@
 
 ## Інструкція
 
-### Локальний запуск
+### Необхідні інструменти
+- Git/Github
+- Docker
+- Ansible
+- Python 3.x
+
+#### Локальний запуск
 1. Запустіть Docker Compose:
-   docker-compose up
+   docker compose up
