@@ -12,6 +12,7 @@
 - Python 3.x
 
 Інструкція по встановлення Docker (Ubuntu) - https://docs.docker.com/engine/install/ubuntu/
+
 Для встановлення Ansible на Ubuntu - sudo apt install ansible
 
 ВАЖЛИВО: Перед запуском проекту, не забудьте відредагувати inventory.ini в Ansible, замінивши айпі та ім'я користувача на свої дані.
